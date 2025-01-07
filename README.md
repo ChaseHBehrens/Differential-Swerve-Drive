@@ -1,7 +1,7 @@
 # Differential Swerve Drive
 A drive system built for robotic applications that allows for omnidirectional movement.
 
-## Renders
+
 ![image](https://github.com/user-attachments/assets/d898ea0f-b6b2-4c19-8a46-1152930a5214)
 ![image](https://github.com/user-attachments/assets/3d4a2893-2eee-4d65-9310-0857f3d20b45)
 
