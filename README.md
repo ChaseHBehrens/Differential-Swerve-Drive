@@ -17,9 +17,7 @@ I built a motor stator from forming layers of cheap laminated steel wire. I was 
 As explained before two beveled ring gears provide power to the wheel via an inner bevel gear. The second bevel gear is there to stabalize the axel. The outer diameter of the ring gears will be lined with magnets to form the inside of the motor. Additionaly the ring gears will be aligned using three thrust bearings in the central gap between the motor stators.
 <br><br>
 <img src="https://github.com/user-attachments/assets/9b5f571c-746e-4c42-85bb-ed68074753e5" alt="Descriptive Alt Text" width="300">
-<div style="transform: rotate(-90deg); display: inline-block;">
 <img src="https://github.com/user-attachments/assets/c6e6f594-c491-4dbc-a20c-9412c0bc1570" alt="Descriptive Alt Text" width="300">
-</div>
 <img src="https://github.com/user-attachments/assets/c9b8b987-6737-4579-bd47-af23735d632f" alt="Descriptive Alt Text" width="300">
 
 ## Side view
