@@ -1,2 +1,2 @@
 # Differential Swerve Drive
-swerve drive
+A differential swerve drive powered by two custom built ring motors.
